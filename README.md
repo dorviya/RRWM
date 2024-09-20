@@ -14,9 +14,10 @@ The terms of the license can be viewed [here](https://www.statcan.gc.ca/en/micro
 **Trainees who belong to another DLI institution should re-download the data using the ODESI site using the login provided by their institution if they wish to make use of the data for other purposes.**
 
 ## Software Requirements
-R version 4.3.1
-
-The code was run on an Apple M1 8 Go with MacOS Sonoma version 14.6.1 with 60 Go of free space.
+- Operating System: macOS Sonoma (Version 14.6.1)
+- Hardware: Apple M1 chip with 8 GB RAM
+- Storage: 60 GB of free disk space
+- R version 4.3.1
 
 ## References
 Statistics Canada. 2019. Census of Population, 2016 [Canada] Public Use Microdata File (PUMF): Individuals File. Statistics Canada [producer and distributor], accessed September 10, 2021. ID: pumf-98M0001-E-2016-individuals.
